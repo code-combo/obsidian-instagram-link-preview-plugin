@@ -1,0 +1,12 @@
+{
+    "id": "instagram-preview",
+    "name": "Instagram Preview",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Generate Instagram previews from URLs via a local server",
+    "author": "Your Name",
+    "authorUrl": "https://your.website",
+    "main": "main.js"
+  }
+  
+  
